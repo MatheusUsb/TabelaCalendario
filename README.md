@@ -1,4 +1,4 @@
-#TabelaCalendario
+# TabelaCalendario
 
 -- Criação da tabela de calendário
 CREATE TABLE calendario (
